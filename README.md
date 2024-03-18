@@ -4,7 +4,7 @@
 Mengintal beberapa package Python yang diperlukan untuk aplikasi ini, seperti cv2, face_recognition, numpy, dan datetime. Instal package dapat menggunakan syntak pip, seperti berikut:
 pip install face_recognition
 2.	Mempersiapakan Dataset
-Menyiapkan dataset gambar wajah yang akan digunakan oleh aplikasi. Gambar ini diletakkan di dalam folder yang imageData di dalam direktori tempat menyimpan kode aplikasi. Setiap gambar harus memiliki nama yang mengikuti format: Nama.NomorRegistrasi.jpg. Contohnya: Suci.002.jpg.
+Menyiapkan dataset gambar wajah yang akan digunakan oleh aplikasi. Gambar ini diletakkan di dalam folder yang imageData di dalam direktori tempat menyimpan kode aplikasi. Setiap gambar harus memiliki nama yang mengikuti format: Nama.NomorRegistrasi.jpg. Contohnya: `Suci.002.jpg`.
 3.	Menjalankan Aplikasi
 Membuka terminal atau command prompt, dengan mengarahkan ke direktori peyimpanana kode aplikasi.
 
