@@ -1,12 +1,12 @@
 # Face_Recognition
 ## Cara Menjalankan Aplikasi:
 1.	Menyiapkan Environment
-Mengintal beberapa package Python yang diperlukan untuk aplikasi ini, seperti `cv2`, `face_recognition`, `numpy`, dan `datetime`. Install package dapat menggunakan syntak `pip`, seperti berikut:
-`pip install face_recognition`
+<br> Mengintal beberapa package Python yang diperlukan untuk aplikasi ini, seperti `cv2`, `face_recognition`, `numpy`, dan `datetime`. Install package dapat menggunakan syntak `pip`, seperti berikut:
+`pip install face_recognition`.
 2.	Mempersiapakan Dataset
-Menyiapkan dataset gambar wajah yang akan digunakan oleh aplikasi. Gambar ini diletakkan di dalam folder `imageData` di dalam direktori tempat menyimpan kode aplikasi. Setiap gambar harus memiliki nama yang mengikuti format: Nama.NomorRegistrasi.jpg. Contohnya: `Suci.002.jpg`.
+<br> Menyiapkan dataset gambar wajah yang akan digunakan oleh aplikasi. Gambar ini diletakkan di dalam folder `imageData` di dalam direktori tempat menyimpan kode aplikasi. Setiap gambar harus memiliki nama yang mengikuti format: Nama.NomorRegistrasi.jpg. Contohnya: `Suci.002.jpg`.
 3.	Menjalankan Aplikasi
-Membuka terminal atau command prompt, dengan mengarahkan ke direktori peyimpanana kode aplikasi.
+<br> Membuka terminal atau command prompt, dengan mengarahkan ke direktori peyimpanana kode aplikasi.
 
 ## Cara Mengoperasikan Aplikasi:
 1.	Aplikasi akan membuka kamera dan mulai mendeteksi wajah.
